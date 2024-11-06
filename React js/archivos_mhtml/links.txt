@@ -1,3 +1,9 @@
 React with Redux: https://chatgpt.com/c/672b7262-b5e0-8007-912f-b698b652bc75
 
 React-roter-dom: https://chatgpt.com/c/672b6ea8-8710-8007-9b8c-22cf1e0f4e99
+
+lazy loading with React: https://chatgpt.com/c/672b7567-2b60-8007-87b7-2fd87f6483b7
+
+useEffect avanzado: https://chatgpt.com/c/672b7708-f5b4-8007-9c6b-86ffbc408259
+
+React query: https://chatgpt.com/c/672b77b3-e290-8007-9a71-ee8bca86a2b5
