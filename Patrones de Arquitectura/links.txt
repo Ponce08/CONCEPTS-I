@@ -1,0 +1,21 @@
+Capas: https://chatgpt.com/c/672d2595-42fc-8007-b4fc-50f4412c86ba
+
+Maestro-Esclavo: https://chatgpt.com/c/672d2709-638c-8007-8cc1-5678000c9d7d
+
+Filtros-Tuberías: https://chatgpt.com/c/672d279c-68a0-8007-a534-fd3bc8420bb4
+
+Mediador (Broker pattern): https://chatgpt.com/c/672d280e-b61c-8007-8a6c-0ee37b82471c
+
+Par-a-Par (Peer-to-Peer pattern): https://chatgpt.com/c/672d2895-8778-8007-8dad-5cb390f0198a
+
+Micronúcleo (Microkernel pattern): https://chatgpt.com/c/672d28e6-d7fc-8007-80c1-a0ff79e9544e
+
+Bus de Eventos (Event-Bus pattern): https://chatgpt.com/c/672d2926-b350-8007-9e84-3646cdc97b3a
+
+Modelo-Vista-Controlador: https://chatgpt.com/c/672d2967-f7c4-8007-9aa8-7a32807d589d
+
+Pizarra (Blackboard pattern): https://chatgpt.com/c/672d29a5-6cec-8007-91c5-75295aec1afc
+
+Interprete (Interpreter pattern): https://chatgpt.com/c/672d29d9-bc8c-8007-bc18-cf9ba0a6057d
+
+Microservicios: https://chatgpt.com/c/672d2a0e-3e38-8007-805d-ab17bdb59b6f
