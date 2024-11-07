@@ -7,3 +7,21 @@ lazy loading with React: https://chatgpt.com/c/672b7567-2b60-8007-87b7-2fd87f648
 useEffect avanzado: https://chatgpt.com/c/672b7708-f5b4-8007-9c6b-86ffbc408259
 
 React query: https://chatgpt.com/c/672b77b3-e290-8007-9a71-ee8bca86a2b5
+
+useMemo: https://chatgpt.com/c/672ccb8c-c174-8007-946c-13bdde263054
+
+code splitting: https://chatgpt.com/c/672ccc07-99ec-8007-9e7b-e40db36d20f1
+
+virtualizacion de listas: https://chatgpt.com/c/672ccc82-09c4-8007-b95f-ca2afc860054
+
+Formularios controlados y no controlados: https://chatgpt.com/c/672cccf7-4b14-8007-91aa-41057850b4d1
+
+Formik y React Hook Form: https://chatgpt.com/c/672ccd66-cee0-8007-b0ae-73aba30ef78b
+
+Estilos en React: https://chatgpt.com/c/672ccde0-640c-8007-b891-e757ba064a77
+
+Integración con TypeScript: https://chatgpt.com/c/672cce2c-10a0-8007-a045-26ba4952ceea
+
+Internacionalización (i18n): https://chatgpt.com/c/672ccec5-6630-8007-bd7b-88028a69dbff
+
+Accesibilidad (a11y): https://chatgpt.com/c/672ccf3d-af30-8007-b13d-e95a1a9cd25a
