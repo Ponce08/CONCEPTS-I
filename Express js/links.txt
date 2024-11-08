@@ -1,0 +1,29 @@
+MVC (Model-View-Controller): https://chatgpt.com/c/672e7a4b-f470-8007-b8ed-44129de487d3
+
+Middleware de Terceros: https://chatgpt.com/c/672e7a95-d7b8-8007-a25a-ad926538b0a8
+
+Middleware Personalizado: https://chatgpt.com/c/672e7ac8-0e10-8007-9547-7ee1e8af550c
+
+Ciclo de Vida de Middleware: https://chatgpt.com/c/672e7af6-9520-8007-b1d6-cd2399d73ca5
+
+Autenticación y Seguridad: https://chatgpt.com/c/672e7b32-fadc-8007-a737-8b9cf857d936
+
+Conexión con Bases de Datos: https://chatgpt.com/c/672e7b80-fbe0-8007-96a8-443e6064e2cb
+
+Colas de Mensajes: https://chatgpt.com/c/672e7c04-0a60-8007-a13b-aca7e8d09257
+
+Validación y Serialización: https://chatgpt.com/c/672e7c5b-6d24-8007-8393-ce59f8a7afca
+
+Documentación de la API: https://chatgpt.com/c/672e7c91-729c-8007-852a-f7cd19d68f8c
+
+WebSockets con Socket.io: https://chatgpt.com/c/672e7ccc-6728-8007-adb9-51a49e0d568a
+
+Broadcasting y Notificaciones: https://chatgpt.com/c/672e7d0a-7f38-8007-a20e-f8a528698af4
+
+Pruebas (Testing): https://chatgpt.com/c/672e7d42-f590-8007-92a7-fcdce1b98459
+
+Optimización y Despliegue: https://chatgpt.com/c/672e7d90-ef30-8007-a4e0-99154b93d3fc
+
+Webhooks y Integraciones Externas: https://chatgpt.com/c/672e7dd8-aa8c-8007-ae51-d222be8f8ec2
+
+Uso de Clústeres y Microservicios: https://chatgpt.com/c/672e7e13-02ac-8007-be72-d54a6eddddca

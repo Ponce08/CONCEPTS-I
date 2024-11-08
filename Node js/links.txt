@@ -1,0 +1,27 @@
+Event Loop y Asincronía: https://chatgpt.com/c/672cd258-b448-8007-bc19-8dc2d885eee3
+
+Módulos en Node.js: https://chatgpt.com/c/672e75fc-dd04-8007-8fd0-44260bb29c7d
+
+File System (FS): https://chatgpt.com/c/672e763c-ea04-8007-a67b-da0bccbcce12
+
+HTTP y RESTful APIs: https://chatgpt.com/c/672e76eb-461c-8007-a69d-2f4df4569099
+
+Streams y Buffers: https://chatgpt.com/c/672e771e-d050-8007-8a2e-4101b1ffb99f
+
+Conexiones con Bases de Datos: https://chatgpt.com/c/672e775e-4c74-8007-8bd6-675bb75f36d3
+
+Autenticación y Seguridad: https://chatgpt.com/c/672e7789-6d4c-8007-9844-7a79691a887c
+
+Testing y Debugging: https://chatgpt.com/c/672e77e0-76fc-8007-9a62-8a73592ae8ea
+
+Despliegue y Optimización: https://chatgpt.com/c/672e781e-d110-8007-9998-a643d70ab4fa
+
+Concurrencia y Escalabilidad: https://chatgpt.com/c/672e785a-0464-8007-a4b5-445fe07d9e08
+
+Herramientas y Frameworks Populares: https://chatgpt.com/c/672e789b-0700-8007-8b29-93cf5832e0b9
+
+Microservicios y Arquitectura: https://chatgpt.com/c/672e78cf-6cf0-8007-9cdb-2f06a0d8da9d
+
+Optimización de Performance: https://chatgpt.com/c/672e7909-9e6c-8007-bc5d-7550a51790c4
+
+Trabajar con Servicios Externos: https://chatgpt.com/c/672e7933-a194-8007-9ffb-e24ddc1d0d61

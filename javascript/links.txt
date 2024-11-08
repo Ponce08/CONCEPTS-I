@@ -1,0 +1,33 @@
+Tipos de datos y estructuras: https://chatgpt.com/c/672e8100-c5b0-8007-b1e9-d919fbbb3b6d
+
+Operadores: https://chatgpt.com/c/672e8144-5174-8007-b609-9998b6cfdc3a
+
+Funciones: https://chatgpt.com/c/672e8198-e080-8007-a7a9-8b1b1df3b70c
+
+Objetos y clases: https://chatgpt.com/c/672e8288-2650-8007-9bf7-fb16e0336e34
+
+Manejo de asíncronía: https://chatgpt.com/c/672e83d8-4c7c-8007-a016-9d8a9197a822
+
+El objeto this: https://chatgpt.com/c/672e84a6-c984-8007-bc8d-4595dc77f7a7
+
+Scope y hoisting: https://chatgpt.com/c/672e8591-5c6c-8007-9293-a05a35e0568f
+
+Modularización: https://chatgpt.com/c/672e85dc-4698-8007-b5de-b49ca1e4f925
+
+Eventos y manejo de DOM: https://chatgpt.com/c/672e861c-61bc-8007-b5dd-7ede3a3af914
+
+Programación funcional: https://chatgpt.com/c/672e868f-ee78-8007-b210-7c9426c1790a
+
+NPM y Yarn para gestión de paquetes: https://chatgpt.com/c/672e874e-e7e4-8007-93ab-1f5e7e4c3356
+
+Herramientas como linters (ESLint) (Prettier): https://chatgpt.com/c/672e8781-28b0-8007-892b-5ec54de448fc
+
+Testing: https://chatgpt.com/c/672e87ed-5ef8-8007-a0ce-57ae347866fa
+
+Depuración con DevTools: https://chatgpt.com/c/672e8825-e164-8007-a941-a4ec710f4ac2
+
+Optimización de rendimiento: https://chatgpt.com/c/672e88e4-0e0c-8007-9010-597115e6aa6c
+
+Técnicas de depuración: https://chatgpt.com/c/672e8950-d394-8007-a005-c650584f374d
+
+características de ECMAScript: https://chatgpt.com/c/672e89a0-31a8-8007-8aa9-7c5818b09364

@@ -1,0 +1,33 @@
+Estructura de datos: https://chatgpt.com/c/672e206c-5204-8007-a902-49c1ff971885
+
+Colecciones y documentos: https://chatgpt.com/c/672e20d4-8274-8007-a15b-2016e2f5ad41
+
+Comparativa con bases de datos SQL: https://chatgpt.com/c/672e210f-55d4-8007-a9e6-a1474bbc6609
+
+Operaciones CRUD: https://chatgpt.com/c/672e215f-86f4-8007-b447-0545454ac419
+
+Esquema flexible y modelado de datos: https://chatgpt.com/c/672e21b1-a234-8007-b398-bf3e38961bbb
+
+Índices: https://chatgpt.com/c/672e21fe-9458-8007-9dd9-d9583d81b4c4
+
+Consultas avanzadas: https://chatgpt.com/c/672e2258-686c-8007-a3f8-a9030c1e173b
+
+Sharding y replicación: https://chatgpt.com/c/672e22c6-8f8c-8007-878e-4c4d1db50f6f
+
+Transacciones: https://chatgpt.com/c/672e2319-10d8-8007-bedb-e488fd5599f5
+
+Autenticación y autorización: https://chatgpt.com/c/672e2976-12e0-8007-84f6-2e91c8453425
+
+Control de acceso basado en roles (RBAC): https://chatgpt.com/c/672e2a08-66a8-8007-b01a-e60a7115ec3c
+
+Cifrado: https://chatgpt.com/c/672e2a4b-ae5c-8007-a7ff-3cac1a081b3d
+
+Optimización de consultas: https://chatgpt.com/c/672e2a90-5e24-8007-a9cb-fd439cf36e7e
+
+Herramientas de monitoreo: https://chatgpt.com/c/672e2ace-25e4-8007-9255-8d27e20012f3
+
+Mongoose y Node js: https://chatgpt.com/c/672e2b5c-8758-8007-a8eb-5180baabf090
+
+MongoDB Atlas y el entorno en la nube: https://chatgpt.com/c/672e2ba8-07e4-8007-91b2-66aeebf1a195
+
+Backups y recuperación: https://chatgpt.com/c/672e2bf0-5518-8007-8564-4052424dad68

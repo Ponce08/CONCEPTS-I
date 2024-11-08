@@ -1,0 +1,29 @@
+Instalación y Configuración Inicial: https://chatgpt.com/c/672e6ebb-ba4c-8007-96cb-7713e2f4af43
+
+Tablas y Tipos de Datos: https://chatgpt.com/c/672e6fdd-9dfc-8007-9512-74e7feec1cda
+
+Consultas Básicas y Avanzadas (SQL): https://chatgpt.com/c/672e7067-369c-8007-aaf0-70100d4c3a82
+
+Funciones y Triggers: https://chatgpt.com/c/672e70d6-6144-8007-a5f6-8cf38392700b
+
+Transacciones y Bloqueos: https://chatgpt.com/c/672e7122-8dc8-8007-b41c-a17d55dda5f8
+
+EXPLAIN y EXPLAIN ANALYZE: https://chatgpt.com/c/672e71a8-df74-8007-82cf-1e4cee6a95dd
+
+Vacuum y Autovacuum: https://chatgpt.com/c/672e71ed-b17c-8007-b940-cd5990106383
+
+Optimización de Consultas: https://chatgpt.com/c/672e7238-6d7c-8007-8c9d-c58f8ccfab4e
+
+Manejo de Errores y Excepciones: https://chatgpt.com/c/672e7285-01d8-8007-a72d-6c69e3c52a91
+
+Migraciones y Cambios de Esquema: https://chatgpt.com/c/672e72df-96f0-8007-a1fc-5f5215123046
+
+Gestión de Roles y Permisos: https://chatgpt.com/c/672e7374-d874-8007-8682-6cee8111a88b
+
+Cifrado y Protección de Datos Sensibles: https://chatgpt.com/c/672e73af-5ba0-8007-b09c-918cdc58e975
+
+Backups y Recuperación: https://chatgpt.com/c/672e73e3-c6e4-8007-9944-fdc476873092
+
+Replicación y Alta Disponibilidad: https://chatgpt.com/c/672e743d-1ce4-8007-9959-aac58dd84a88
+
+Extensiones en PostgreSQL: https://chatgpt.com/c/672e7471-d738-8007-b5b5-106d592b48e9

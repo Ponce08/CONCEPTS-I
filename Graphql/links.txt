@@ -1,0 +1,35 @@
+Que es Graphql?: https://chatgpt.com/c/672e1b6e-8f1c-8007-8d3a-d97a7bbc27c2
+
+los Schemas y los Queries: https://chatgpt.com/c/672e17dd-c6b0-8007-b5cd-03b7a6710078
+
+los Mutations y los Subscriptions: https://chatgpt.com/c/672e18a6-7b4c-8007-9c3f-feddeb01a4c3
+
+los Tipos de Objetos y los Escalar Types: https://chatgpt.com/c/672e1925-9e34-8007-80f6-fdba7347cb5a
+
+los enums y los inputs: https://chatgpt.com/c/672e19a4-076c-8007-86dd-c3ade3866d35
+
+Interfaces y Unions: https://chatgpt.com/c/672e1a31-5dec-8007-a744-3995dc59b37a
+
+los Resolvers: https://chatgpt.com/c/672e1abb-bbc8-8007-b2f8-f7fb1da47d5b
+
+Autenticación y Autorización: https://chatgpt.com/c/672e1b1c-8590-8007-a677-68e25176b858
+
+GraphQL Errors y el Manejo Global de Errores: https://chatgpt.com/c/672e1bea-b54c-8007-b437-e96cd4898053
+
+Apollo Client y Relay: https://chatgpt.com/c/672e1c53-a978-8007-b2ea-3b3132000b83
+
+Cache y Estrategias de Fetching: https://chatgpt.com/c/672e1ca1-b02c-8007-bc58-1181050e30d9
+
+Validación y Testing en GraphQL: https://chatgpt.com/c/672e1ced-bba8-8007-a3a8-ae7be33cdfe2
+
+Paginación y Filtrado: https://chatgpt.com/c/672e1d37-4ef0-8007-8119-bdc3d55faed7
+
+Optimización y Performance: https://chatgpt.com/c/672e1dad-87e4-8007-a316-4cd95a992fa3
+
+Seguridad: https://chatgpt.com/c/672e1dfc-12fc-8007-a229-c0f7d5c5b7f8
+
+Documentación: https://chatgpt.com/c/672e1f24-421c-8007-9997-18482e3c3f20
+
+Estrategias de Migración: https://chatgpt.com/c/672e1f81-37ec-8007-90e7-3fcfab45530b
+
+Herramientas de Monitoreo y Análisis de Logs: https://chatgpt.com/c/672e1fe3-d0dc-8007-ac2d-30ba4dca859b
